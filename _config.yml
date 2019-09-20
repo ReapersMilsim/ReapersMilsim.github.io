@@ -1,5 +1,5 @@
 logo: # add logo name
-title: REAPERS - PaintBall Team
+title: REAPERS - Paintball Team
 description: > # this means to ignore newlines until "baseurl:"
   La escuadra de MILSIM más antigua de Antioquia, perteneciente a la asociación de jugadores de paintball TAG36 de Medellin - Colombia.
 permalink: ':title/'
